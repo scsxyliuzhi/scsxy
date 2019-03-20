@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube2sky:1.8
+FROM gcr.io/google_containers/kube2sky:v1.8
 
